@@ -1,0 +1,53 @@
+# 🚀 TaskBoost
+
+Complete Tasks • Earn Rewards • Withdraw Easily
+
+TaskBoost is a modern earning platform where users can discover real earning opportunities, complete simple tasks and earn rewards.
+
+## Features
+
+- Daily Tasks
+- Crypto Offers
+- Referral System
+- Wallet Support
+- Blog System
+- User Dashboard
+- Notifications
+- Mobile Friendly Design
+
+## Tech Stack
+
+- Frontend: HTML, CSS, JavaScript
+- Backend: PHP
+- Database: MySQL
+- Hosting: ProFreeHost
+- Repository: GitHub
+- License: MIT
+
+## Project Structure
+
+```text
+public_html/
+├── index.php
+├── login.php
+├── dashboard.php
+├── tasks.php
+├── wallet.php
+├── withdraw.php
+├── config.php
+├── admin/
+├── assets/
+├── css/
+├── js/
+└── images/
+```
+
+## Goal
+
+Create a free startup-style reward platform where users discover real opportunities and rewards.
+
+## License
+
+MIT License
+
+Created by Nasir Hussain
